@@ -1,0 +1,1 @@
+create table ESUserT (ID_USER varchar(255) not null, ALAMAT_USER varchar(255), NAMA_USER varchar(255), PASSWORD_USER varchar(255), POSISI_USER varchar(255), STATUS_USER integer not null, TANGGAL_BUAT datetime, TANGGAL_EDIT datetime, TELEPON_USER varchar(255), USER_BUAT varchar(255), USER_EDIT varchar(255), primary key (ID_USER));
