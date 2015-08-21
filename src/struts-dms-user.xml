@@ -14,6 +14,9 @@
 			<result name="index">/jsp/index.jsp</result>
 			<result name="home">/jsp/index.jsp</result>
 		</action>
+		<action name="linktest" class="dms.finance.action.ESLoginAction" method="test">
+		<result name="success">/jsp/content.jsp</result>
+		</action>
 	</package>
 
 

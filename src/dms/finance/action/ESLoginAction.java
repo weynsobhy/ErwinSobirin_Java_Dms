@@ -31,6 +31,9 @@ public class ESLoginAction extends ActionSupport {
 
 		return SUCCESS;
 	}
+	public String test(){
+		return SUCCESS;
+	}
 	
 	public String execute(){
 		try {

@@ -4,14 +4,14 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
- 
+
 </head>
-<body>
+<body >
  <header class="main-header">
         <!-- Logo -->
         <a href="index2.html" class="logo">
           <!-- mini logo for sidebar mini 50x50 pixels -->
-          <span class="logo-mini"><b>A</b>LT</span>
+          <span class="logo-mini"><b>ES</b>DMS</span>
           <!-- logo for regular state and mobile devices -->
           <span class="logo-lg"><b>ES_DMS</b>_Finance</span>
         </a>
@@ -24,6 +24,7 @@
           <div class="navbar-custom-menu">
             <ul class="nav navbar-nav">
               <!-- Messages: style can be found in dropdown.less-->
+             
               <li class="dropdown messages-menu">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                   <i class="fa fa-envelope-o"></i>
@@ -213,15 +214,15 @@
               <!-- User Account: style can be found in dropdown.less -->
               <li class="dropdown user user-menu">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                  <img src="style/dist/img/user2-160x160.jpg" class="user-image" alt="User Image" />
-                  <span class="hidden-xs">Alexander Pierce</span>
+                  <img src="style/dist/img/erwin.png" class="user-image" alt="User Image" />
+                  <span class="hidden-xs">Erwin Sobirin</span>
                 </a>
                 <ul class="dropdown-menu">
                   <!-- User image -->
                   <li class="user-header">
-                    <img src="style/dist/img/user2-160x160.jpg" class="img-circle" alt="User Image" />
+                    <img src="style/dist/img/erwin.png" class="img-circle" alt="User Image" />
                     <p>
-                      Alexander Pierce - Web Developer
+                      Erwin Sobirin - Web Developer
                       <small>Member since Nov. 2012</small>
                     </p>
                   </li>
